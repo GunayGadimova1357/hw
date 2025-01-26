@@ -1,0 +1,14 @@
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.deps.json
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.runtimeconfig.json
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.dll
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.pdb
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.AssemblyInfoInputs.cache
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.AssemblyInfo.cs
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.dll
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/refint/ConsoleApp7.dll
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.pdb
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.genruntimeconfig.cache
+/Users/xalida/RiderProjects/ConsoleApp7/ConsoleApp7/obj/Debug/net8.0/ref/ConsoleApp7.dll

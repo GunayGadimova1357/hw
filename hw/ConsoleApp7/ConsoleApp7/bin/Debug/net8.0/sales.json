@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "2264f741-f5a5-4433-b50b-900c869bece9",
+    "ShowroomId": "73fcb16e-1f0b-4447-a734-667a9e0f04b0",
+    "CarId": "72b78cf3-6f86-4f69-9fb1-b991d9d791c0",
+    "UserId": "3e52a68d-7ec9-4830-b93e-c083f559663b",
+    "SaleDate": "2025-01-26T00:00:00",
+    "SalePrice": 108500,
+    "CarMake": null
+  },
+  {
+    "Id": "f695a306-b531-4e12-a418-e8927236ede8",
+    "ShowroomId": "50770692-13ba-4979-86f2-46efcd466344",
+    "CarId": "9273dc1b-7641-4e62-9fd5-c8fd945f4bfc",
+    "UserId": "3e52a68d-7ec9-4830-b93e-c083f559663b",
+    "SaleDate": "2025-01-26T00:00:00",
+    "SalePrice": 50000,
+    "CarMake": "b"
+  }
+]

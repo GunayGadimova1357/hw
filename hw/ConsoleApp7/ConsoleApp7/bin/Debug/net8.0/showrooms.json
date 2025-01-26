@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "73fcb16e-1f0b-4447-a734-667a9e0f04b0",
+    "Name": "alo",
+    "Cars": [
+      {
+        "Id": "af3588b3-19d0-47b8-8d7a-6d8d3e3547a5",
+        "Make": "bmw",
+        "Model": "x5",
+        "Year": 2023
+      }
+    ],
+    "CarCapacity": 12,
+    "CarCount": 1,
+    "SalesCount": 1
+  },
+  {
+    "Id": "50770692-13ba-4979-86f2-46efcd466344",
+    "Name": "test1",
+    "Cars": [
+      {
+        "Id": "a9be61ee-1949-474c-a3c1-fa3940a316be",
+        "Make": "h",
+        "Model": "j",
+        "Year": 2022
+      }
+    ],
+    "CarCapacity": 23,
+    "CarCount": 1,
+    "SalesCount": 1
+  }
+]
