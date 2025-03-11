@@ -1,0 +1,4 @@
+/Users/xalida/RiderProjects/ConsoleApp9/obj/Debug/net8.0/ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xalida/RiderProjects/ConsoleApp9/obj/Debug/net8.0/ConsoleApp9.AssemblyInfoInputs.cache
+/Users/xalida/RiderProjects/ConsoleApp9/obj/Debug/net8.0/ConsoleApp9.AssemblyInfo.cs
+/Users/xalida/RiderProjects/ConsoleApp9/obj/Debug/net8.0/ConsoleApp9.csproj.CoreCompileInputs.cache
