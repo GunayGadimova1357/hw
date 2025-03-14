@@ -1,0 +1,5 @@
+/Users/xalida/RiderProjects/efproject/obj/Debug/net8.0/efproject.csproj.AssemblyReference.cache
+/Users/xalida/RiderProjects/efproject/obj/Debug/net8.0/efproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xalida/RiderProjects/efproject/obj/Debug/net8.0/efproject.AssemblyInfoInputs.cache
+/Users/xalida/RiderProjects/efproject/obj/Debug/net8.0/efproject.AssemblyInfo.cs
+/Users/xalida/RiderProjects/efproject/obj/Debug/net8.0/efproject.csproj.CoreCompileInputs.cache
